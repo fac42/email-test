@@ -1,4 +1,4 @@
-# Email Template for Vigorate
+# Description
 Built using the [Acorn Email Framework](https://github.com/ThemeMountain/acorn), which supports a wide variety of email clients.
 
 Credits to FontAwesome for social icons.
